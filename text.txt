@@ -1,0 +1,20 @@
+ES2015 Global Constant
+
+const PI = 3.14
+
+Quiz
+
+What is the difference between var and let?
+You can reassign values and redeclare with 'var' while with 'let' can only be reassigned.
+
+What is the difference between var and const?
+
+You can reassign and redeclare with 'var' but with 'const' you can't reassign or redeclare.
+
+What is the difference between let and const?
+
+You can reassign with 'let' but 'const' doesn't let you reassign or redeclare.
+
+What is hoisting?
+
+Hoisting is the manner in which variable names and values are accessed when they are needed. They are 'hoisted' to the beginning of a given scope to be accessed later.
